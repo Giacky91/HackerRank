@@ -12,7 +12,7 @@ You must be registered and signed in to read the problem from HackerRank site.
 
 Language: **java 1.7**
 
-### Data Structure
+#### Data Structure
 <table>
     <tr>
         <th>Problem</th>
@@ -44,7 +44,7 @@ Language: **java 1.7**
     </tr>
     <tr>
         <td>
-            <a href="https://www.hackerrank.com/challenges/ctci-linked-list-cycle">Linked Lists: Detect a Cycle</a>
+            <a href="https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem">Linked Lists: Detect a Cycle</a>
         </td>
         <td>
             <a href="">Solution</a>
@@ -52,7 +52,7 @@ Language: **java 1.7**
     </tr>
     <tr>
         <td>
-            <a href="https://www.hackerrank.com/challenges/ctci-balanced-brackets">Stacks: Balanced Brackets</a>
+            <a href="https://www.hackerrank.com/challenges/ctci-balanced-brackets/problem">Stacks: Balanced Brackets</a>
         </td>
         <td>
             <a href="">Solution</a>
@@ -60,7 +60,7 @@ Language: **java 1.7**
     </tr>
     <tr>
         <td>
-            <a href="https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks">Queues: A Tale of Two Stacks</a>
+            <a href="https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem">Queues: A Tale of Two Stacks</a>
         </td>
         <td>
             <a href="">Solution</a>
@@ -85,6 +85,112 @@ Language: **java 1.7**
     <tr>
         <td>
             <a href="https://www.hackerrank.com/challenges/ctci-contacts/problem">Tries: Contacts</a>
+        </td>
+        <td>
+            <a href="">Solution</a>
+        </td>
+    </tr>
+</table>
+
+#### Algorithms
+
+<table>
+    <tr>
+        <th>Problem</th>
+        <th>Solution</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.hackerrank.com/challenges/ctci-bubble-sort/problem">Sorting: Bubble Sort</a>
+        </td>
+        <td>
+            <a href="">Solution</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem">Sorting: Comparator</a>
+        </td>
+        <td>
+            <a href="">Solution</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem">Hash Tables: Ice Cream Parlor</a>
+        </td>
+        <td>
+            <a href="">Solution</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.hackerrank.com/challenges/ctci-merge-sort/problem">Merge Sort: Counting Inversions</a>
+        </td>
+        <td>
+            <a href="">Solution</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem">DFS: Connected Cell in a Grid</a>
+        </td>
+        <td>
+            <a href="">Solution</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem">BFS: Shortest Reach in a Graph</a>
+        </td>
+        <td>
+            <a href="">Solution</a>
+        </td>
+    </tr>
+</table>
+
+#### Techniques/Concepts
+
+<table>
+    <tr>
+        <th>Problem</th>
+        <th>Solution</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.hackerrank.com/challenges/ctci-big-o/problem">Time Complexity: Primality</a>
+        </td>
+        <td>
+            <a href="">Solution</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem">Recursion: Fibonacci Numbers</a>
+        </td>
+        <td>
+            <a href="">Solution</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem">Recursion: Davis' Staircase</a>
+        </td>
+        <td>
+            <a href="">Solution</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.hackerrank.com/challenges/ctci-coin-change/problem">DP: Coin Change</a>
+        </td>
+        <td>
+            <a href="">Solution</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.hackerrank.com/challenges/ctci-lonely-integer/problem">Bit Manipulation: Lonely Integer</a>
         </td>
         <td>
             <a href="">Solution</a>
