@@ -128,7 +128,7 @@ Language: **java 1.7**
             <a href="https://www.hackerrank.com/challenges/ctci-merge-sort/problem">Merge Sort: Counting Inversions</a>
         </td>
         <td>
-            <a href="">Solution</a>
+            Solution
         </td>
     </tr>
     <tr>
@@ -136,7 +136,7 @@ Language: **java 1.7**
             <a href="https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem">DFS: Connected Cell in a Grid</a>
         </td>
         <td>
-            <a href="">Solution</a>
+            Solution
         </td>
     </tr>
     <tr>
@@ -144,7 +144,7 @@ Language: **java 1.7**
             <a href="https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem">BFS: Shortest Reach in a Graph</a>
         </td>
         <td>
-            <a href="">Solution</a>
+            Solution
         </td>
     </tr>
 </table>
