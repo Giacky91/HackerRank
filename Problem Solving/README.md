@@ -117,7 +117,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/grading/problem">Grading Students</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Grading_Students.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -125,7 +125,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/apple-and-orange/problem">Apple and Orange</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Apple_and_Orange.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -133,7 +133,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/kangaroo/problem">Kangaroo</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Kangaroo.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -141,7 +141,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/between-two-sets/problem">Between Two Sets</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Between_Two_Sets.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -149,7 +149,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem">Breaking the Records</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Breaking_the_Records.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -157,7 +157,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/the-birthday-bar/problem">Birthday Chocolate</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Birthday_Chocolate.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -165,7 +165,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/divisible-sum-pairs/problem">Divisible Sum Pairs</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Divisible_Sum_Pairs.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -173,7 +173,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/migratory-birds/problem">Migratory Birds</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Migratory_Birds.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -181,7 +181,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/day-of-the-programmer/problem">Day of the Programmer</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Day_of_the_Programmer.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -189,7 +189,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/bon-appetit/problem">Bon Appétit</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Bon_App%C3%A9tit.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -197,7 +197,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/sock-merchant/problem">Sock Merchant</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Sock_Merchant.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -205,7 +205,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/drawing-book/problem">Drawing Book</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Drawing_Book.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -213,7 +213,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/counting-valleys/problem">Counting Valleys</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Counting_Valleys.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -221,7 +221,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/electronics-shop/problem">Electronics Shop</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Electronics_Shop.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -229,7 +229,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/cats-and-a-mouse/problem">Cats and a Mouse</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Cats_and_a_Mouse.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -237,7 +237,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/picking-numbers/problem">Picking Numbers</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Picking_Numbers.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -245,7 +245,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/the-hurdle-race/problem">The Hurdle Race</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/The_Hurdle_Race.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -253,7 +253,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/designer-pdf-viewer/problem">Designer PDF Viewer</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Designer_PDF_Viewer.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -261,7 +261,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/utopian-tree/problem">Utopian Tree</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Utopian_Tree.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -269,7 +269,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/angry-professor/problem">Angry Professor</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Angry_Professor.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -277,7 +277,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem">Beautiful Days at the Movies</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Beautiful_Days_at_the_Movies.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -285,7 +285,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/strange-advertising/problem">Viral Advertising</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Viral_Advertising.java">Solution</a>
                     </td>
                 </tr>
 				<tr>
@@ -293,7 +293,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/save-the-prisoner/problem">Save the Prisoner!</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Save_the_Prisoner!.java">Solution</a>
                     </td>
                 </tr>
 			</table>
