@@ -29,7 +29,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/solve-me-first/problem">Solve Me First</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Solve_Me_First.java">Solution</a>
                     </td>
                 </tr>
                 <tr>
@@ -37,7 +37,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/simple-array-sum/problem">Simple Array Sum</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Simple_Array_Sum.java">Solution</a>
                     </td>
                 </tr>
                 <tr>
@@ -45,7 +45,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/compare-the-triplets/problem">Compare the Triplets</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Compare_the_Triplets.java">Solution</a>
                     </td>
                 </tr>
                 <tr>
@@ -53,7 +53,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/a-very-big-sum/problem">A Very Big Sum</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/A_Very_Big_Sum.java">Solution</a>
                     </td>
                 </tr>
                 <tr>
@@ -61,7 +61,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/diagonal-difference/problem">Diagonal Difference</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Diagonal_Difference.java">Solution</a>
                     </td>
                 </tr>
                 <tr>
@@ -69,7 +69,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/plus-minus/problem">Plus Minus</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Plus_Minus.java">Solution</a>
                     </td>
                 </tr>
                 <tr>
@@ -77,7 +77,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/staircase/problem">Staircase</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Staircase.java">Solution</a>
                     </td>
                 </tr>
                 <tr>
@@ -85,7 +85,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/mini-max-sum/problem">Mini-Max Sum</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Mini-Max_Sum.java">Solution</a>
                     </td>
                 </tr>
                 <tr>
@@ -93,7 +93,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/birthday-cake-candles/problem">Birthday Cake Candles</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Birthday_Cake_Candles.java">Solution</a>
                     </td>
                 </tr>
                 <tr>
@@ -101,7 +101,7 @@ Language: **Java 1.7**
                         <a href="https://www.hackerrank.com/challenges/time-conversion/problem">Time Conversion</a>
                     </td>
                     <td>
-                        <a href="">Solution</a>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Time_Conversion.java">Solution</a>
                     </td>
                 </tr>
             </table>
