@@ -16,6 +16,7 @@ Language: **Java 1.7**
     <tr>
         <th>Warmup</th>
 		<th>Implementation</th>
+		<th>Sorting</th>
     </tr>
     <tr>
         <td valign="top">
@@ -294,6 +295,70 @@ Language: **Java 1.7**
                     </td>
                     <td>
                         <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Save_the_Prisoner!.java">Solution</a>
+                    </td>
+                </tr>
+			</table>
+		</td>
+		<td valign="top">
+            <table>
+                <tr>
+                    <th>Problem</th>
+                    <th>Solution</th>
+                </tr>
+				<tr>
+                    <td>
+                        <a href="https://www.hackerrank.com/challenges/tutorial-intro/problem">Intro to Tutorial Challenges</a>
+                    </td>
+                    <td>
+                        <a href="">Solution</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://www.hackerrank.com/challenges/big-sorting/problem">Big Sorting</a>
+                    </td>
+                    <td>
+                        <a href="">Solution</a>
+                    </td>
+                </tr>
+				<tr>
+                    <td>
+                        <a href="https://www.hackerrank.com/challenges/insertionsort1/problem">Insertion Sort - Part 1</a>
+                    </td>
+                    <td>
+                        <a href="">Solution</a>
+                    </td>
+                </tr>
+				<tr>
+                    <td>
+                        <a href="https://www.hackerrank.com/challenges/insertionsort2/problem">Insertion Sort - Part 2</a>
+                    </td>
+                    <td>
+                        <a href="">Solution</a>
+                    </td>
+                </tr>
+				<tr>
+                    <td>
+                        <a href="https://www.hackerrank.com/challenges/correctness-invariant/problem">Correctness and the Loop Invariant</a>
+                    </td>
+                    <td>
+                        <a href="">Solution</a>
+                    </td>
+                </tr>
+				<tr>
+                    <td>
+                        <a href="https://www.hackerrank.com/challenges/runningtime/problem">Running Time of Algorithms</a>
+                    </td>
+                    <td>
+                        <a href="">Solution</a>
+                    </td>
+                </tr>
+				<tr>
+                    <td>
+                        <a href="https://www.hackerrank.com/challenges/quicksort1/problem">Quicksort 1 - Partition</a>
+                    </td>
+                    <td>
+                        <a href="">Solution</a>
                     </td>
                 </tr>
 			</table>
