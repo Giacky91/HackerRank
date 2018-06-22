@@ -297,6 +297,14 @@ Language: **Java 1.7**
                         <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Save_the_Prisoner!.java">Solution</a>
                     </td>
                 </tr>
+				<tr>
+                    <td>
+                        <a href="https://www.hackerrank.com/challenges/circular-array-rotation/problem">Circular Array Rotation</a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/Giacky91/HackerRank/blob/master/Problem%20Solving/Source/Circular_Array_Rotation.java">Solution</a>
+                    </td>
+                </tr>
 			</table>
 		</td>
 		<td valign="top">
